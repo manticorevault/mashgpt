@@ -18,3 +18,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.bg-div {
+  background-color: #343541;
+}

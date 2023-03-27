@@ -1,8 +1,11 @@
+import React from "react"
+
 function HomePage() {
   return (
     <h1>
-        MashGPT Chat
+        Next13 Chat
     </h1>
+
   )
 }
 
